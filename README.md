@@ -1,7 +1,7 @@
 # Find movie with React.js
 
 In this project, you can get the movie summary by the name.<br/>
-When I code findmovie app, I got the movie API from the https://www.themoviedb.org/. But you can use the movie api from the http://www.omdbapi.com/. It's up to you. If you use moviedb, you can get the more information. <br/>
+When I code findmovie app, I got the movie API from the https://www.themoviedb.org/. But you can use the movie api from the http://www.omdbapi.com/. It's up to you. If you use moviedb, you can get the more information.
 When I working on this project. I used to React Hooks.<br/>
 What can you do in this project?
 
