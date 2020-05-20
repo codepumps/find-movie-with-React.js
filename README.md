@@ -8,14 +8,14 @@ What can you do in this project?
 <ul>
 <li>You can search the movie by movie name.</li>
 <li>You can see the movie summary and movie image.</li>
-
-</ul> <br/>
+</ul>
 
 ### `Check out Findmovie App`
 
 You can run demo findmovie app. [Show Project](https://findmovie-app.netlify.app/).
 
 ## View of the project
+![View](https://github.com/codepumps/find-movie-with-React.js/blob/master/src/Screenshot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
